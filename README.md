@@ -27,7 +27,7 @@ This project implements a parts catalog system using a B+ Tree data structure in
 - Designing a **modular system** distinguishing **indexing** and **user interaction**
 - Implementing a balanced tree with **node splits** and **fusions**
 
-## 7. Ideas for Future Improvemnent 
+## 7. Ideas for Future Improvement 
 - Add a graphical user interface (GUI)
 - Build a REST API around B+ Tree storage engine
 - Extend the system to handle several users 
